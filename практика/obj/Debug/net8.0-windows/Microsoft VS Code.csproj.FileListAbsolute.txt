@@ -1,0 +1,14 @@
+c:\Users\pudge\Desktop\практика\bin\Debug\net8.0-windows\Microsoft VS Code.exe
+C:\Users\pudge\Desktop\практика\bin\Debug\net8.0-windows\Microsoft VS Code.deps.json
+C:\Users\pudge\Desktop\практика\bin\Debug\net8.0-windows\Microsoft VS Code.runtimeconfig.json
+c:\Users\pudge\Desktop\практика\bin\Debug\net8.0-windows\Microsoft VS Code.dll
+c:\Users\pudge\Desktop\практика\bin\Debug\net8.0-windows\Microsoft VS Code.pdb
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.AssemblyInfoInputs.cache
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.AssemblyInfo.cs
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.csproj.CoreCompileInputs.cache
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.dll
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\refint\Microsoft VS Code.dll
+c:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.pdb
+C:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\Microsoft VS Code.genruntimeconfig.cache
+C:\Users\pudge\Desktop\практика\obj\Debug\net8.0-windows\ref\Microsoft VS Code.dll
